@@ -1,6 +1,7 @@
 import cross from './assets/images/icon-cross.svg'
 import Moon from './components/Moon'
 
+
 const App = () =>{
   return (
     <div className="bg-[url('./assets/images/bg-mobile-light.jpg')] bg-no-repeat bg-contain bg-gray-300 min-h-screen">
