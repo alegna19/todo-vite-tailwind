@@ -1,4 +1,4 @@
-import Moon from './Moon'
+import IconMoon from './IconMoon'
 
 const Header = () => {
     return(
@@ -6,7 +6,7 @@ const Header = () => {
         <div className="flex justify-between">
           <h1 className="uppercase text-white text-3xl font-semibold tracking-[0.5em]">Todo</h1>
           <button>
-            <Moon/>
+            <IconMoon/>
           </button>
         </div>
       </header>
